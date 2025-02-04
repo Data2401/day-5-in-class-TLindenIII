@@ -33,9 +33,9 @@ too_big <- (area > 100)
 # Display the variable `my_name`
 # Display the variable `area` 
 # Display the variable `too_big`
-(my_name)
-(area)
-(too_big)
+my_name
+area
+too_big
 
 ### PART TWO ###
 
